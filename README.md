@@ -1,9 +1,9 @@
 # High Fidelity Design (Udacity)
 
-Link to Figma file:
+Link to Figma prototype:
 https://www.figma.com/proto/MxX6e2aXfcMEdgotCoavyD/Recipe-App---Redesign-Cookpad-(Community)?node-id=102%3A2&scaling=scale-down&page-id=2%3A517&starting-point-node-id=102%3A2
 
-Link to Prototype: 
+Link to Figma file: 
 https://www.figma.com/file/MxX6e2aXfcMEdgotCoavyD/Recipe-App---Redesign-Cookpad-(Community)?node-id=2%3A517
 
 
